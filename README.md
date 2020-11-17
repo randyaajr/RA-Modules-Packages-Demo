@@ -1,4 +1,4 @@
-# Python Import Method (Challenge 1)
+# Python Virtual Environment and Packages (Challenge 2)
 ---
 
 This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'venv'.
