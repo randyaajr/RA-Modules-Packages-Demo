@@ -3,6 +3,17 @@
 
 This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'venv'.
 
+### Activation
+```
+PS C:\Users\randy\Documents\GitHub\RA-Modules-Packages-Demo> env\scripts\activate
+```
+
+Notice that (env) is now visable in the terminal. This confirms the activation.
+```
+(env) PS C:\Users\randy\Documents\GitHub\RA-Modules-Packages-Demo>
+```
+
+
 ## Challenge Requirements
 
 #### First Task (MS VS Code Terminal Window or PowerShell):
