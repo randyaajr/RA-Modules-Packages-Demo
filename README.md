@@ -1,7 +1,7 @@
 # Python Virtual Environment and Packages (Challenge 2)
 ---
 
-This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'venv'.
+This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'env'. I created a simple program which takes in a max amount of numbers from the user then calculates the sum of all numbers inputted. The final sum is the divided by the total number of inputs (max amount). This then outputs the average. Colorama has been imported to add some style to the terminal's output.
 
 ### Activation
 ```
@@ -11,6 +11,11 @@ PS C:\Users\randy\Documents\GitHub\RA-Modules-Packages-Demo> env\scripts\activat
 Notice that (env) is now visable in the terminal. This confirms the activation.
 ```
 (env) PS C:\Users\randy\Documents\GitHub\RA-Modules-Packages-Demo>
+```
+
+### Colorama Installation
+```
+(env) PS C:\Users\randy\Documents\GitHub\RA-Modules-Packages-Demo> pip install colorama
 ```
 
 ## Challenge Requirements
@@ -25,3 +30,12 @@ Notice that (env) is now visable in the terminal. This confirms the activation.
    * From colorama import ???
    * Use any color…
    * You can refer to my folder “Anmar-Modules-Packages-Demo” for more details
+
+## Requirements
+```
+certifi==2020.11.8
+chardet==3.0.4
+colorama==0.4.4
+idna==2.10
+urllib3==1.26.2
+```
