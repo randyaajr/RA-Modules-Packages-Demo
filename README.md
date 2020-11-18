@@ -1,7 +1,7 @@
 # Python Virtual Environment and Packages (Challenge 2)
 ---
 
-This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'env'. I created a simple program which takes in a max amount of numbers from the user then calculates the sum of all numbers inputted. The final sum is the divided by the total number of inputs (max amount). This then outputs the average. Colorama has been imported to add some style to the terminal's output.
+This challenge demonstrates how to download packages locally by creating a virtual environment. All packages downlaoded are located in a sub folder named 'env'. I created a simple program which takes in a max amount of numbers from the user then calculates the sum of all numbers inputted. The final sum is then divided by the total number of inputs (max amount). This then outputs the average. Colorama has been imported to add some style to the terminal's output.
 
 ### Activation
 ```
