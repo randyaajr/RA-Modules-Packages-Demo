@@ -39,4 +39,4 @@ colorama==0.4.4
 idna==2.10
 urllib3==1.26.2
 ```
-!(Colorama Project link - PyPi.org)[https://pypi.org/project/colorama/]
+![https://pypi.org/project/colorama/](Colorama Project Link - PyPi.org)
